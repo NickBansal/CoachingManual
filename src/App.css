@@ -1,3 +1,11 @@
 .App {
   text-align: center;
 }
+
+body {
+  background-image: url('./images/football-stadium.jpeg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center; 
+  background-size: cover
+}
