@@ -6,13 +6,13 @@ const NewForm = () => {
         <div>
             <form className="formStyle">
                 <fieldset className="formItems">
-                    <p className="titleStyle"><i className="icons" class="fas fa-key"></i>Login to the Coaching Manual</p>
+                    <p className="titleStyle"><i className="icons fas fa-key"></i>Login to the Coaching Manual</p>
 
-                    <label className="labelStyle" for="email">Email address:</label>
+                    <label className="labelStyle">Email address:</label>
                     <input className="inputStyle" type="email" placeholder="Please enter your email..." id="email" required />
 
-                    <label className="labelStyle" for="email">Password:</label>
-                    <input className="inputStyle" type="password" placeholder="Password" id="email" required />
+                    <label className="labelStyle">Password:</label>
+                    <input className="inputStyle" type="password" placeholder="Password" id="password" required />
 
                     <button className="buttonStyle" type="submit">Submit</button>
                     <div className="bottomWording">

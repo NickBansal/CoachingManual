@@ -17,7 +17,7 @@ const Navbar = () => {
     return (
         <div>
             <h1 style={style}>
-            <i style={icons} class="fas fa-2x fa-futbol"></i>{'<Logo />'}</h1>
+            <i style={icons} className="fas fa-2x fa-futbol"></i>{'<Logo />'}</h1>
         </div>
     )
 }
