@@ -1,0 +1,88 @@
+.formStyle {
+    display: flex;
+    justify-content: center;
+    margin: 150px auto,
+}
+
+.formItems {
+    display: flex;
+    width: 550px;
+    height: 430px;
+    padding: 0;
+    border-radius: 15px;
+    background: #fff;
+    border: none;
+    box-shadow: 1px 1px 15px;
+    margin: 130px;
+}
+
+.buttonStyle {
+    padding: 12px 39px;
+    color: #FFF;
+    background: #4bc970;
+    font-size: 18px;
+    text-align: center;
+    font-style: normal;
+    border-radius: 5px;
+    width: 70%;
+    border: 1px solid #3ac162;
+    border-width: 1px 1px 3px;
+    box-shadow: 0 -1px 0 rgba(255, 255, 255, 0.1);
+    margin: 25px auto
+}
+
+.buttonStyle:hover {
+    cursor: pointer;
+    background: #3a9a57;
+}
+
+.inputStyle {
+    margin: auto;
+    width: 70%;
+    height: 35px;
+    font-size: 17px;
+    padding-left: 20px;
+    border-radius: 5px;
+    background: #f4f7f8;
+    border: 1px #efebeb solid
+}
+
+.titleStyle {
+    background: #4bc970;
+    margin: 0;
+    font-size: 27px;
+    color: #FFF;
+    height: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    margin-bottom: 25px
+}
+
+.fa-key {
+    margin-right: 15px
+}
+
+.bottomWording {
+    display: flex;
+    justify-content: space-around
+}
+
+.bottomWording p:hover {
+    cursor: pointer;
+}
+
+.Hovering:hover {
+    color: #40a75f
+}
+
+.labelStyle {
+    width: 70%;
+    margin: 15px auto;
+    text-align: left
+}
+.newColor {
+    color: lightgreen
+}
