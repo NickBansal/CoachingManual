@@ -101,6 +101,10 @@
         margin: 0
     }
     .titleStyle {
-        font-size: 15px
+        font-size: 15px;
+        height: 12%
+    }
+    .inputStyle {
+        font-size: 12px;
     }
 }
